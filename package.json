@@ -1,0 +1,19 @@
+{
+  "name": "todo_backend",
+  "version": "1.0.0",
+  "description": "backend of my todo app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Sundaram Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
